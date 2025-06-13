@@ -216,3 +216,7 @@ The script extracts:
 - Set up **email notifications** for critical errors
 
 ## VEDIO DEMO 
+
+
+https://github.com/user-attachments/assets/fc7c4c8b-912b-4bf6-afa2-a82e5693c3f1
+
